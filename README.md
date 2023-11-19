@@ -7,3 +7,9 @@
 - Escribir el comando: yarn ó yarn install
 - Escribir el comando: yarn dev
 - Abrir el proyecto en un navegador con la url indicada.
+
+![N|Solid](https://github.com/HugoMG484/react-cards/blob/main/React/cards-1.jpg?raw=true)
+
+![N|Solid](https://github.com/HugoMG484/react-cards/blob/main/React/cards-2.jpg?raw=true)
+
+![N|Solid](https://github.com/HugoMG484/react-cards/blob/main/React/cards-3.jpg?raw=true)
